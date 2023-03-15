@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jamming-quaysan-react/static/css/main.67aba339.css",
+    "main.js": "/jamming-quaysan-react/static/js/main.30b53bc4.js",
+    "static/js/787.44b3b8b5.chunk.js": "/jamming-quaysan-react/static/js/787.44b3b8b5.chunk.js",
+    "static/media/background_photo_desktop.jpg": "/jamming-quaysan-react/static/media/background_photo_desktop.a0687f3fe6f1303a2d18.jpg",
+    "index.html": "/jamming-quaysan-react/index.html",
+    "main.67aba339.css.map": "/jamming-quaysan-react/static/css/main.67aba339.css.map",
+    "main.30b53bc4.js.map": "/jamming-quaysan-react/static/js/main.30b53bc4.js.map",
+    "787.44b3b8b5.chunk.js.map": "/jamming-quaysan-react/static/js/787.44b3b8b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67aba339.css",
+    "static/js/main.30b53bc4.js"
+  ]
+}
